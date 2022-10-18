@@ -1,2 +1,6 @@
-# ineuron-Live-Class
-ineuron-Live-Class
+# Ineuron_Live_Class_and_Task
+(FULLSTACK DATA SCIENCE BOOTCAMP)
+
+
+![287107146_751527785877556_6476786141815289747_n](https://user-images.githubusercontent.com/105153025/192716280-c3f6185b-03f5-433f-947c-7ef7a4709941.jpg)
+
